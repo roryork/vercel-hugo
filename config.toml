@@ -29,7 +29,7 @@ publishDir            = "docs"					# 站点静态文件保存目录
     tj51lack        = ''
 
 [params.qweather]
-    key = "085791e805a24491b43b06cf58ab31e7"
+   # key = "085791e805a24491b43b06cf58ab31e7"
 
 [params.images]
     favicon           = "assets/images/favicon2.png"           # 网站图标
