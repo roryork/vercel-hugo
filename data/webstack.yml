@@ -46,10 +46,10 @@
       logo: Printables.ico
       url: https://www.printables.com/
       description: Printables
-    - title: Makerworl
-      logo: Makerworld.ico
-      url: https://makerworld.com/zh
-      description: Makerworl
+    - title: 修图全集
+      logo: Lucky.png
+      url: https://www.iloveimg.com/zh-cn
+      description: 可批量编辑图片 的所有工具
 
 - taxonomy: 编程学习
   icon: fas fa-laptop-code fa-lg
