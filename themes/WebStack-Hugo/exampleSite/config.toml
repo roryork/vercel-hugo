@@ -1,6 +1,6 @@
-baseURL               = "https://nav.xazz.top/"
+baseURL               = "https://www.518855.xyz/"
 languageCode          = "zh-CN"
-title                 = "小A猪崽"
+title                 = "AiEDU | MJJ导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
@@ -10,20 +10,20 @@ publishDir            = "docs"					# 站点静态文件保存目录
 
 [params]
     author        = "ikirito"
-    description   = "小A猪崽 | Hugo WebStack BY ikirito"
+    description   = "AiEDU | MJJ导航"
     upload        = "#"  # 左侧导航栏的"网站提交"
-    about         = "https://github.com/shenweiyan/WebStack-Hugo"	# 左侧导航栏的"关于导航"页面(./about)
-    repository    = "https://github.com/i-kirito"  
+    about         = "https://github.com/88899"	# 左侧导航栏的"关于导航"页面(./about)
+    repository    = "https://github.com/88899/vercel-hugo"
     enablePreLoad = true					# 网站完全打开前预加载动画
-    textPreLoad   = "小A猪崽"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    textPreLoad   = "AiEDU"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false					# 默认展开左侧边导航栏
     logosPath     = "assets/images/logos"			# 网站每个导航地址logo存放地址
     defaultLogo   = "assets/images/logos/default.webp"		# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
     nightMode     = false					# 默认站点为深色(夜间)模式
     yiyan         = true                         		# 默认启用一言服务
 
-[params.seo]    
-    baiduhmid     = 'efccc04cb44fc49faddac5876180b369'		# 百度统计 hm.src 的 ID
+[params.seo]
+    baiduhmid     = '252f9700e4c1ad32c2647eb839ef71e6'		# 百度统计 hm.src 的 ID
     baiduSiteVer  = 'codeva-cCAOSG8MBO'				# 百度HTML标签验证(baidu-site-verification)
     tj51laid        = ''                        		# 51.LA 网站统计
     tj51lack        = ''
@@ -33,15 +33,15 @@ publishDir            = "docs"					# 站点静态文件保存目录
 
 [params.images]
     favicon           = "assets/images/favicon.png"
-    searchImageL      = "assets/images/bg-dna.jpg"		# 搜索部分浅色背景图
-    searchImageD      = "assets/images/bg-dna.jpg"		# 搜索部分深色背景图
+    searchImageL      = "assets/images/bg-dna2.jpg"		# 搜索部分浅色背景图
+    searchImageD      = "assets/images/bg-dna2.jpg"		# 搜索部分深色背景图
     logoExpandLight   = "assets/images/bt8-expand-light.png"
     logoExpandDark    = "assets/images/bt8-expand-dark.png"
     logoCollapseLight = "assets/images/bt.png"
     logoCollapseDark  = "assets/images/bt.png"
-    
+
 [markup.goldmark.renderer]
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：mail@xazz.top <br/>&copy; 2023 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [ikirito-Github](https://github.com/i-kirito) | [备案号](https://nav.xazz.top)<br/>'
+    copyright = '本站内容源自互联网，如有内容侵犯权益，请联系站长删除相关内容，联系邮箱：aiedu985@gmail.com <br/><br/><span id="RunTime" style="color:#FC4E27;letter-spacing:2px"></span><br/><br/>&copy; 2025 - {year} By [AiEDU](https://github.com/88899) | [vercel-hugo](https://github.com/88899/vercel-hugo) <br/>'
