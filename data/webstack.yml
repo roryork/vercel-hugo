@@ -534,73 +534,73 @@
           logo: meitudata.svg
           description: 告诉ai标题生成大纲PPT
 
-- taxonomy: 推荐应用
-  icon: fab fa-app-store-ios fa-lg
-  list:
-    - term: 内网穿透
-      links:
-        - title: ZeroTier
-          url: https://www.zerotier.com/
-          logo: zerotier.ico
-          description: P2P点对点端口映射，交互延迟低
-        - title: Frp
-          url: https://gofrp.org/
-          logo: frp.ico
-          description: 简单、高效的内网穿透工具
-        - title: Nps Npc
-          url: https://github.com/ehang-io/nps
-          logo: nps.ico
-          description: 强大的内网穿透代理服务器
-        - title: NatFrp
-          url: https://www.natfrp.com/
-          logo: natfrp.ico
-          description: 樱花内网穿透，无需服务器映射
+# - taxonomy: 推荐应用
+#   icon: fab fa-app-store-ios fa-lg
+#   list:
+#     - term: 内网穿透
+#       links:
+#         - title: ZeroTier
+#           url: https://www.zerotier.com/
+#           logo: zerotier.ico
+#           description: P2P点对点端口映射，交互延迟低
+#         - title: Frp
+#           url: https://gofrp.org/
+#           logo: frp.ico
+#           description: 简单、高效的内网穿透工具
+#         - title: Nps Npc
+#           url: https://github.com/ehang-io/nps
+#           logo: nps.ico
+#           description: 强大的内网穿透代理服务器
+#         - title: NatFrp
+#           url: https://www.natfrp.com/
+#           logo: natfrp.ico
+#           description: 樱花内网穿透，无需服务器映射
 
-    - term: 系统应用
-      links:
-        - title: iTellyou
-          url: https://next.itellyou.cn/
-          logo: itu.ico
-          description: 我告诉你，纯净的系统下载
-        - title: 微PE工具箱
-          url: https://www.wepe.com.cn
-          logo: weipe.ico
-          description: 使用工具箱制作U盘启动，快速重装系统
-        - title: FileCr
-          url: https://filecr.com/
-          logo: filecr.ico
-          description: 免费下载多款应用
-        - title: 草料二维码
-          url: https://cli.im/
-          logo: cli.ico
-          description: 自定义二维码生成
-        - title: 手办维基
-          url: https://www.hpoi.net/hobby/
-          logo: shouban.ico
-          description: 手办搜索购买
-        - title: 接码平台
-          url: https://sms-activate.org/
-          logo: sms.ico
-          description: sms手机接码服务
+#     - term: 系统应用
+#       links:
+#         - title: iTellyou
+#           url: https://next.itellyou.cn/
+#           logo: itu.ico
+#           description: 我告诉你，纯净的系统下载
+#         - title: 微PE工具箱
+#           url: https://www.wepe.com.cn
+#           logo: weipe.ico
+#           description: 使用工具箱制作U盘启动，快速重装系统
+#         - title: FileCr
+#           url: https://filecr.com/
+#           logo: filecr.ico
+#           description: 免费下载多款应用
+#         - title: 草料二维码
+#           url: https://cli.im/
+#           logo: cli.ico
+#           description: 自定义二维码生成
+#         - title: 手办维基
+#           url: https://www.hpoi.net/hobby/
+#           logo: shouban.ico
+#           description: 手办搜索购买
+#         - title: 接码平台
+#           url: https://sms-activate.org/
+#           logo: sms.ico
+#           description: sms手机接码服务
 
-    - term: 磁力搜索
-      links:
-        - title: 磁力猫
-          url: https://xn--tfrs17es0d.xyz/
-          logo: cilimao.ico
-          description: 磁力猫搜索
-        - title: 海盗磁力
-          url: https://thepiratebay.org/
-          logo: haidao.ico
-          description: 磁力猫搜索
-        - title: BT1027
-          url: https://bt1207dizhi.top/
-          logo: bt1027.ico
-          description: 磁力猫搜索
-        - title: 磁力多
-          url: https://duo6.cyou/
-          logo: ciliduo.ico
-          description: 磁力猫搜索
+#     - term: 磁力搜索
+#       links:
+#         - title: 磁力猫
+#           url: https://xn--tfrs17es0d.xyz/
+#           logo: cilimao.ico
+#           description: 磁力猫搜索
+#         - title: 海盗磁力
+#           url: https://thepiratebay.org/
+#           logo: haidao.ico
+#           description: 磁力猫搜索
+#         - title: BT1027
+#           url: https://bt1207dizhi.top/
+#           logo: bt1027.ico
+#           description: 磁力猫搜索
+#         - title: 磁力多
+#           url: https://duo6.cyou/
+#           logo: ciliduo.ico
+#           description: 磁力猫搜索
 
 # - taxonomy: 谷歌插件
 #   icon: fa fa-chrome fa-lg
