@@ -54,7 +54,7 @@ a img.aligncenter{display:block;margin-left:auto;margin-right:auto}
 ## Sidebar style
 --------------------------------------------------------------*/
 .sidebar-nav{position:fixed;display:table-cell;font-size:.875rem;width:220px;height:100vh;z-index:1081;opacity:1!important}
-.sidebar-nav-inner{width:inherit;margin:0;max-width:220px;background:#2c2e2f;pointer-events:inherit;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-direction:column;-webkit-box-orient:vertical;-webkit-box-direction:normal;flex-direction:column;transition:background-color .3s}
+.sidebar-nav-inner{width:inherit;margin:0;max-width:200px;background:#2c2e2f;pointer-events:inherit;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-direction:column;-webkit-box-orient:vertical;-webkit-box-direction:normal;flex-direction:column;transition:background-color .3s}
 .sidebar-nav .logo{line-height:74px;width:100%;text-align:center}
 .sidebar-nav .logo .logo-collapsed{display:none}
 .sidebar-logo{height:74px;transition:background-color .2s}
