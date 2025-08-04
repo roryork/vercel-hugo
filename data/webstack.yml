@@ -59,15 +59,15 @@
         - title: iKuai
           logo: 爱快.ico
           url: http://192.168.31.2/
-          description: 
+          description:
         - title: 群晖
           logo: 群晖.png
           url: http://192.168.31.5:5000/
-          description: 
+          description:
         - title: 小米路由
           logo: 路由.ico
           url: http://192.168.31.7/
-          description: 
+          description:
         - title: ESXI
           logo: esxi.svg
           url: http://192.168.31.110/
@@ -79,7 +79,7 @@
 
     - term: 常用收藏
       links:
-        - title: 蓝奏云 
+        - title: 蓝奏云
           logo: 蓝奏云.ico
           url: https://pc.woozooo.com/
           description: 上传文件格式有限制
@@ -87,11 +87,11 @@
           logo: 阿里云盘.ico
           url: https://www.alipan.com/drive/file/all
           description: 阿里云盘，你的数字世界
-        - title: BUFF 
+        - title: BUFF
           logo: buff.ico
           url: https://buff.163.com/market/csgo
           description: 网易BUFF
-        - title: 1panel 
+        - title: 1panel
           logo: 1panel.png
           url: https://1panel.cn/
           description: 开源的服务器web管理面板
@@ -106,7 +106,7 @@
         - title: Vercel
           logo: vercel.ico
           url: https://vercel.com/
-          description: 轻松地构建、部署和扩展 Web 应用程序。GitHub拉取 
+          description: 轻松地构建、部署和扩展 Web 应用程序。GitHub拉取
 
     - term: 办公学习
       links:
@@ -313,7 +313,7 @@
         - title: 可道云
           logo: 可道云.ico
           usrl: https://kodcloud.com/
-          description: 云端存储&协同办公新体验        
+          description: 云端存储&协同办公新体验
         - title: 蓝奏云
           logo: 蓝奏云.ico
           url: https://www.lanzoui.com/
@@ -331,7 +331,7 @@
         - title: Aconvert
           logo: ac.ico
           url: https://www.aconvert.com/
-          description: 图片转化为ico格式         
+          description: 图片转化为ico格式
         - title: icon icons
           logo: icon-icons.svg
           url: https://icon-icons.com/
@@ -533,7 +533,7 @@
           url: https://design.meitu.com/
           logo: meitudata.svg
           description: 告诉ai标题生成大纲PPT
-          
+
 - taxonomy: 推荐应用
   icon: fab fa-app-store-ios fa-lg
   list:
