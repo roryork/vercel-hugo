@@ -1,19 +1,19 @@
 ---
-- taxonomy: Mjj推荐
+- taxonomy: MJJ的推荐
   icon: far fa-star
   links:
     - title: YXVM
-      logo: haidao.ico
+      logo: hyxvm.ico
       url: https://yxvm.com/aff.php?aff=660
       description: The better way to build your project with YxVM.
+    - title: Alice
+      logo: alice.ico
+      url: https://app.alice.ws/
+      description: Alice Networks
     - title: DeepSeek
       logo: deepseek.svg
       url: https://chat.deepseek.com/
       description: DeepSeek
-    - title: Steam
-      logo: steam.ico
-      url: https://store.steampowered.com/
-      description: 大伙都在玩的游戏平台
     - title: 哔哩哔哩
       logo: 哔哩哔哩.ico
       url: https://www.bilibili.com/
