@@ -602,39 +602,39 @@
           logo: ciliduo.ico
           description: 磁力猫搜索
 
-- taxonomy: 谷歌插件
-  icon: fa fa-chrome fa-lg
-  list:
-    - term: 谷歌插件
-      links:
-        - title: Wetab
-          url: https://www.wetab.link/
-          logo: wetab.ico
-          description: 保存书签自定义你的新标签页
-        - title: Csspeeper
-          url: https://csspeeper.com/
-          logo: csspeeper.ico
-          description: 预览和设计你的css
-        - title: Mustsee
-          url: http://mustsee.earth/
-          logo: mustsee.ico
-          description: 打开标签页发现世界每一个美丽的地方
-        - title: Chatgpt-sidebar
-          url: https://chatgpt-sidebar.com/
-          logo: sidebar.svg
-          description: 基于chatgpt打造的扩展插件
-        - title: 购物党比价
-          url: https://www.gwdang.com/v2/app/extension
-          logo: gouw.ico
-          description: 对比电商平台下价格与优惠券领取
-        - title: Bilibili助手
-          url: https://bilibilihelper.com/
-          logo: bilizhushou.ico
-          description: 哔哩哔哩小助手，可下载封面视频
-        - title: 油猴插件
-          url: https://www.tampermonkey.net/
-          logo: youhou.ico
-          description: 一款多装多种丰富插件的扩展
+# - taxonomy: 谷歌插件
+#   icon: fa fa-chrome fa-lg
+#   list:
+#     - term: 谷歌插件
+#       links:
+#         - title: Wetab
+#           url: https://www.wetab.link/
+#           logo: wetab.ico
+#           description: 保存书签自定义你的新标签页
+#         - title: Csspeeper
+#           url: https://csspeeper.com/
+#           logo: csspeeper.ico
+#           description: 预览和设计你的css
+#         - title: Mustsee
+#           url: http://mustsee.earth/
+#           logo: mustsee.ico
+#           description: 打开标签页发现世界每一个美丽的地方
+#         - title: Chatgpt-sidebar
+#           url: https://chatgpt-sidebar.com/
+#           logo: sidebar.svg
+#           description: 基于chatgpt打造的扩展插件
+#         - title: 购物党比价
+#           url: https://www.gwdang.com/v2/app/extension
+#           logo: gouw.ico
+#           description: 对比电商平台下价格与优惠券领取
+#         - title: Bilibili助手
+#           url: https://bilibilihelper.com/
+#           logo: bilizhushou.ico
+#           description: 哔哩哔哩小助手，可下载封面视频
+#         - title: 油猴插件
+#           url: https://www.tampermonkey.net/
+#           logo: youhou.ico
+#           description: 一款多装多种丰富插件的扩展
 
 - taxonomy: ChatGPT
   icon: fas fa-robot fa-lg
