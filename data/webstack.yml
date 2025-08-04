@@ -1,11 +1,11 @@
 ---
-- taxonomy: 主站推荐
+- taxonomy: Mjj推荐
   icon: far fa-star
   links:
-    - title: 云剪切板
+    - title: YXVM
       logo: haidao.ico
-      url: https://c.603666.xyz/
-      description: 云剪切板
+      url: https://yxvm.com/aff.php?aff=660
+      description: The better way to build your project with YxVM.
     - title: DeepSeek
       logo: deepseek.svg
       url: https://chat.deepseek.com/
