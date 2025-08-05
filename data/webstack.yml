@@ -86,29 +86,6 @@
 - taxonomy: 编程学习
   icon: fas fa-laptop-code fa-lg
   list:
-    - term: 本地服务
-      links:
-        - title: iKuai
-          logo: 爱快.ico
-          url: http://192.168.31.2/
-          description:
-        - title: 群晖
-          logo: 群晖.png
-          url: http://192.168.31.5:5000/
-          description:
-        - title: 小米路由
-          logo: 路由.ico
-          url: http://192.168.31.7/
-          description:
-        - title: ESXI
-          logo: esxi.svg
-          url: http://192.168.31.110/
-          description: 稳定的虚拟机管理
-        - title: Lucky
-          logo: Lucky.png
-          url: http://192.168.31.5:16601/
-          description: 内网穿透NAT映射
-
     - term: 常用收藏
       links:
         - title: 蓝奏云
@@ -256,66 +233,6 @@
           logo: baka.png
           url: https://bakamh.com/
           description: bakamh巴卡漫画 韩漫
-
-    - term: 游戏模组
-      links:
-        - title: Steam
-          logo: steam.ico
-          url: https://store.steampowered.com/
-          description: 大伙都在玩的游戏平台
-        - title: SteamDB
-          logo: steamdb.svg
-          url: https://steamdb.info/
-          description: 查看steam数据和不同区域价格
-        - title: Steam主页美化
-          logo: steamdesign.ico
-          url: https://steam.design/
-          description: 想要不一样的steam主页设计？点我
-        - title: Epic
-          logo: epic.ico
-          url: https://www.epicgames.com/
-          description: 一个游戏开发与发行公司
-        - title: itcho
-          logo: itcho.ico
-          url: https://itch.io/
-          description: 致力于允许独立游戏制作者发布和销售其作品
-        - title: 3dm论坛
-          logo: 3dm.ico
-          url: https://bbs.3dmgame.com/forum.php
-          description: 游戏破解论坛
-        - title: 9dm论坛
-          logo: 9dm.ico
-          url: http://www.9damaogames.com/
-          description: 游戏破解论坛
-        - title: xxxxx520
-          logo: xxxxx520.ico
-          url: https://xxxxx520.cam/
-          description: 游戏破解，switch模拟
-        - title: mcbbs
-          logo: mcbbs.ico
-          url: https://www.mcbbs.net/forum.php
-          description: 我的世界中文官方论坛
-        - title: Curseforge
-          logo: mod.ico
-          url: https://www.curseforge.com/minecraft/modpacks
-          description: 我的世界最全mod网站
-        - title: Nexus Mods
-          logo: nexus.webp
-          url: https://www.nexusmods.com/
-          description: 为 PC 游戏玩家提供 mod 的网站
-        - title: QooApp
-          logo: qooapp.webp
-          url: https://qoo-app.com
-          description: 国际服游戏平台
-        # - title: Gamelabs
-        #   logo: gl.ico
-        #   url: https://game.ero-labs.cloud/cn/
-        #   description: R18游戏集合
-        # - title: 老司机游玩
-        #   logo: lsj.ico
-        #   url: https://www.iolsj.xyz/
-        #   description: R18游戏集合
-
     - term: 网盘资源
       links:
         - title: 百度网盘
@@ -565,55 +482,6 @@
           url: https://design.meitu.com/
           logo: meitudata.svg
           description: 告诉ai标题生成大纲PPT
-
-# - taxonomy: 推荐应用
-#   icon: fab fa-app-store-ios fa-lg
-#   list:
-#     - term: 内网穿透
-#       links:
-#         - title: ZeroTier
-#           url: https://www.zerotier.com/
-#           logo: zerotier.ico
-#           description: P2P点对点端口映射，交互延迟低
-#         - title: Frp
-#           url: https://gofrp.org/
-#           logo: frp.ico
-#           description: 简单、高效的内网穿透工具
-#         - title: Nps Npc
-#           url: https://github.com/ehang-io/nps
-#           logo: nps.ico
-#           description: 强大的内网穿透代理服务器
-#         - title: NatFrp
-#           url: https://www.natfrp.com/
-#           logo: natfrp.ico
-#           description: 樱花内网穿透，无需服务器映射
-
-#     - term: 系统应用
-#       links:
-#         - title: iTellyou
-#           url: https://next.itellyou.cn/
-#           logo: itu.ico
-#           description: 我告诉你，纯净的系统下载
-#         - title: 微PE工具箱
-#           url: https://www.wepe.com.cn
-#           logo: weipe.ico
-#           description: 使用工具箱制作U盘启动，快速重装系统
-#         - title: FileCr
-#           url: https://filecr.com/
-#           logo: filecr.ico
-#           description: 免费下载多款应用
-#         - title: 草料二维码
-#           url: https://cli.im/
-#           logo: cli.ico
-#           description: 自定义二维码生成
-#         - title: 手办维基
-#           url: https://www.hpoi.net/hobby/
-#           logo: shouban.ico
-#           description: 手办搜索购买
-#         - title: 接码平台
-#           url: https://sms-activate.org/
-#           logo: sms.ico
-#           description: sms手机接码服务
 
 #     - term: 磁力搜索
 #       links:
