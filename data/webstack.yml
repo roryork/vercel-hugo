@@ -112,7 +112,7 @@
           logo: nycmn.png
           url: https://dot.nyc.mn/
           description: 永久免费二级域名，仅限纽约家宽申请
-        - title: Nyc.mn
+        - title: Us.kg
           logo: uskg.jpg
           url: https://domain.digitalplat.org/
           description: 永久免费二级域名，半年续期
@@ -529,7 +529,7 @@
           url: https://design.meitu.com/
           logo: meitudata.svg
           description: 告诉ai标题生成大纲PPT
-- taxonomy: ChatGPT
+- taxonomy: 人工智能
   icon: fas fa-robot fa-lg
   list:
     - term: AI应用
@@ -595,7 +595,7 @@
           logo: booltool.ico
           description: 智能处理图像/视频处理
 
-- taxonomy: Docker
+- taxonomy: 运维常用
   icon: fab fa-docker fa-lg
   list:
     - term: Docker
