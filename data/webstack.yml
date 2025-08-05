@@ -9,15 +9,59 @@
     - title: Alice
       logo: alice.ico
       url: https://app.alice.ws/
-      description: Alice Networks
-    - title: DeepSeek
-      logo: deepseek.svg
-      url: https://chat.deepseek.com/
-      description: DeepSeek
-    - title: 哔哩哔哩
-      logo: 哔哩哔哩.ico
-      url: https://www.bilibili.com/
-      description: Bilibili 视频弹幕网站
+      description: Alice Networks,免费小鸡大善人
+    - title: Netjett
+      logo: netjett.ico
+      url: https://netjett.com/
+      description: High-end virtual private servers with the best value for money
+    - title: ArcticCloud
+      logo: 嘉立创.png
+      url: https://vps.polarbear.nyc.mn/
+      description: Nat小鸡,ArcticCloud―次元世界的云服务器提供商
+    - title: 56IDC
+      logo: 56idc.ico
+      url: https://56idc.net/
+      description: Nat小鸡,56IDC―专业的云服务器提供商
+    - title: Freecloud
+      logo: freecloud.ico
+      url: https://freecloud.ltd/
+      description: 难民云，帕斯云的亲子云, 免费小鸡6天续期
+    - title: Cloudcat
+      logo: cloudcat.ico
+      url: https://www.cloudcat.one/
+      description: 猫云,抽奖积分兑换法国小鸡
+    - title: NatFreecloud
+      logo: natfreecloud.ico
+      url: https://nat.freecloud.ltd/
+      description: 难民云，帕斯云的亲子云, 免费Nat小鸡积分续期
+    - title: Hax
+      logo: hax.png
+      url: https://hax.co.id/
+      description: 稳定可靠的免费小鸡,5天手动续期
+    - title: Woiden
+      logo: hax.png
+      url: https://woiden.id/
+      description: 稳定可靠的免费小鸡,1天手动续期
+    - title: 荔枝云
+      logo: lychenn.ico
+      url: https://www.lycheen.com/
+      description: 定期抽奖，有付费小鸡
+    - title: Nodeseek
+      logo: nodeseek.png
+      url: https://www.nodeseek.com/
+      description: MJJ的论坛，俗称ns
+    - title: Nodeloc
+      logo: nodeloc.jpeg
+      url: https://nodeloc.cc/
+      description: MJJ的论坛，俗称nl
+    - title: Linuxdo
+      logo: linuxdo.webp
+      url: https://linux.do/
+      description: MJJ的论坛
+    - title: Clochat
+      logo: clochat.png
+      url: https://clochat.com/
+      description: MJJ的论坛
     - title: GitHub
       logo: github.ico
       url: https://github.com/sunshine504
@@ -26,22 +70,10 @@
       logo: gitee.ico
       url: https://gitee.com/sunshine504/tool/wikis
       description: gitee开源
-    - title: Chatgpt
-      logo: openai.ico
-      url: https://chat.openai.com/
-      description: OpeanAi官方
-    - title: OSHWhub
-      logo: OSHWhub.ico
-      url: https://oshwhub.com/
-      description: 立创开源平台
     - title: Cloudflare
       logo: cloudflare.ico
       url: https://www.cloudflare.com/zh-cn/
       description: 大伙都知道的CF
-    - title: Thingiverse
-      logo: Thingiverse.ico
-      url: https://www.thingiverse.com/
-      description: Thingiverse
     - title: LOGO在线设计
       logo: photoshop.png
       url: https://www.uugai.com/
