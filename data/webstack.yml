@@ -83,39 +83,39 @@
       url: https://www.iloveimg.com/zh-cn
       description: 可批量编辑图片 的所有工具
 
-- taxonomy: 编程学习
+- taxonomy: 常用工具
   icon: fas fa-laptop-code fa-lg
   list:
-    - term: 常用收藏
+    - term: 网络工具
       links:
-        - title: 蓝奏云
-          logo: 蓝奏云.ico
-          url: https://pc.woozooo.com/
-          description: 上传文件格式有限制
-        - title: 阿里云盘
-          logo: 阿里云盘.ico
-          url: https://www.alipan.com/drive/file/all
-          description: 阿里云盘，你的数字世界
-        - title: BUFF
-          logo: buff.ico
-          url: https://buff.163.com/market/csgo
-          description: 网易BUFF
-        - title: 1panel
-          logo: 1panel.png
-          url: https://1panel.cn/
-          description: 开源的服务器web管理面板
-        - title: Makerworl中国站
-          logo: Makerworld.ico
-          url: https://makerworld.com.cn/zh
-          description: Makerworl中国站
-        - title: 嘉立创EDA
-          logo: 嘉立创.png
-          url: https://u.lceda.cn/account/user/projects/all
-          description: 嘉立创EDA
-        - title: Vercel
-          logo: vercel.ico
-          url: https://vercel.com/
-          description: 轻松地构建、部署和扩展 Web 应用程序。GitHub拉取
+        - title: Fast
+          logo: fastcom.png
+          url: https://fast.com/
+          description: 测速，Internet speed test
+        - title: Speedtest
+          logo: speedtest.ico
+          url: https://www.speedtest.net/
+          description: 测速，Internet speed test
+        - title: Ip111
+          logo: anyway.png
+          url: https://ip111.cn/
+          description: ip111.cn 全方位查询您的IP地址
+        - title: Whoer
+          logo: whoer.ico
+          url: https://whoer.net/zh
+          description: 查看IP的风险指数
+        - title: Ping0
+          logo: ping0.ico
+          url: https://ping0.cc/
+          description: IP干净度查询
+        - title: 端口检测
+          logo: biotech-280.png
+          url: https://port.ping.pe/
+          description: 检测端口是否被封
+        - title: IP位置
+          logo: bibigpt.ico
+          url: https://ifconfig.co/
+          description: 查询IP位置
 
     - term: 办公学习
       links:
@@ -482,60 +482,6 @@
           url: https://design.meitu.com/
           logo: meitudata.svg
           description: 告诉ai标题生成大纲PPT
-
-#     - term: 磁力搜索
-#       links:
-#         - title: 磁力猫
-#           url: https://xn--tfrs17es0d.xyz/
-#           logo: cilimao.ico
-#           description: 磁力猫搜索
-#         - title: 海盗磁力
-#           url: https://thepiratebay.org/
-#           logo: haidao.ico
-#           description: 磁力猫搜索
-#         - title: BT1027
-#           url: https://bt1207dizhi.top/
-#           logo: bt1027.ico
-#           description: 磁力猫搜索
-#         - title: 磁力多
-#           url: https://duo6.cyou/
-#           logo: ciliduo.ico
-#           description: 磁力猫搜索
-
-# - taxonomy: 谷歌插件
-#   icon: fa fa-chrome fa-lg
-#   list:
-#     - term: 谷歌插件
-#       links:
-#         - title: Wetab
-#           url: https://www.wetab.link/
-#           logo: wetab.ico
-#           description: 保存书签自定义你的新标签页
-#         - title: Csspeeper
-#           url: https://csspeeper.com/
-#           logo: csspeeper.ico
-#           description: 预览和设计你的css
-#         - title: Mustsee
-#           url: http://mustsee.earth/
-#           logo: mustsee.ico
-#           description: 打开标签页发现世界每一个美丽的地方
-#         - title: Chatgpt-sidebar
-#           url: https://chatgpt-sidebar.com/
-#           logo: sidebar.svg
-#           description: 基于chatgpt打造的扩展插件
-#         - title: 购物党比价
-#           url: https://www.gwdang.com/v2/app/extension
-#           logo: gouw.ico
-#           description: 对比电商平台下价格与优惠券领取
-#         - title: Bilibili助手
-#           url: https://bilibilihelper.com/
-#           logo: bilizhushou.ico
-#           description: 哔哩哔哩小助手，可下载封面视频
-#         - title: 油猴插件
-#           url: https://www.tampermonkey.net/
-#           logo: youhou.ico
-#           description: 一款多装多种丰富插件的扩展
-
 - taxonomy: ChatGPT
   icon: fas fa-robot fa-lg
   list:
