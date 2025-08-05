@@ -62,14 +62,6 @@
       logo: clochat.png
       url: https://clochat.com/
       description: MJJ的论坛
-    - title: GitHub
-      logo: github.ico
-      url: https://github.com/sunshine504
-      description: 导航站GitHub开源
-    - title: gitee
-      logo: gitee.ico
-      url: https://gitee.com/sunshine504/tool/wikis
-      description: gitee开源
     - title: Cloudflare
       logo: cloudflare.ico
       url: https://www.cloudflare.com/zh-cn/
