@@ -50,55 +50,6 @@
 
                         {{ end }}
                     </div>
-
-                    <!-- <ul class="nav navbar-menu text-xs order-1 order-md-2">
-
-                        <div class="rounded-circle weather">
-                            <div id="he-plugin-simple" style="display: contents;"></div>
-                            <script>WIDGET = {
-                                    CONFIG: {
-                                        "modules": "01234",
-                                        "background": 5,
-                                        "tmpColor": "E4C600",
-                                        "tmpSize": 14,
-                                        "cityColor": "E4C600",
-                                        "citySize": 14,
-                                        "aqiColor": "#E4C600",
-                                        "aqiSize": 14,
-                                        "weatherIconSize": 24,
-                                        "alertIconSize": 18,
-                                        "padding": "10px 10px 10px 10px",
-                                        "shadow": "1",
-                                        "language": "auto",
-                                        "borderRadius": 5,
-                                        "fixed": "false",
-                                        "vertical": "middle",
-                                        "horizontal": "left",
-                                        "key": "{{ $.Site.Params.qweather.key }}"
-                                    }
-                                }
-                            </script>
-                            <script
-                                src="https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0"></script>
-                        </div> -->
-                        <!-- 一言 -->
-                        <!-- {{ with .Site.Params.yiyan }}
-                        <li class="nav-item mr-3 mr-lg-0 d-none d-lg-block">
-                            <script>
-                                fetch('https://v1.hitokoto.cn/?c=b')
-                                    .then(response => response.json())
-                                    .then(data => {
-                                        const hitokoto = document.getElementById('hitokoto_text')
-                                        hitokoto.href = 'https://hitokoto.cn/?c=b uuid=' + data.uuid
-                                        hitokoto.innerText = data.hitokoto
-                                    })
-                                    .catch(console.error)
-                            </script>
-                            <div id="hitokoto"><a href="#" target="_blank" id="hitokoto_text">你似乎一直在寻找我。</a></div>
-                        </li>
-                        {{ end }} -->
-                        <!-- 一言 end -->
-
                         <li class="nav-item d-md-none mobile-menu ml-3 ml-md-4">
                             <a href="javascript:" id="sidebar-switch" data-toggle="modal" data-target="#sidebar"><i
                                     class="iconfont icon-classification icon-2x"></i></a>

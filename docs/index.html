@@ -32,22 +32,6 @@
     <script type="text/javascript" src="/assets/js/jquery.min-3.2.1.js" id="jquery-js"></script>
     <script type="text/javascript" src="/assets/js/content-search.js"  id="content-search-js"></script>
 
-    <!-- <script>
-
-        var _hmt = _hmt || []
-            (function () {
-                var hm = document.createElement("script")
-                hm.src = "https://hm.baidu.com/hm.js?252f9700e4c1ad32c2647eb839ef71e6"
-                var s = document.getElementsByTagName("script")[0]
-                s.parentNode.insertBefore(hm, s)
-            })()
-
-    </script> -->
-
-
-
-
-
     <style>
         * {
             cursor: url("https://cdn.jsdelivr.net/gh/i-kirito/halo-theme-xazz/templates/assets//plugins/cursor/simple/pointer.cur"), auto;
@@ -417,59 +401,7 @@
 
                         </ul>
 
-
-
-
                     </div>
-
-                    <!-- <ul class="nav navbar-menu text-xs order-1 order-md-2">
-
-                        <div class="rounded-circle weather">
-                            <div id="he-plugin-simple" style="display: contents;"></div>
-                            <script>WIDGET = {
-                                    CONFIG: {
-                                        "modules": "01234",
-                                        "background": 5,
-                                        "tmpColor": "E4C600",
-                                        "tmpSize": 14,
-                                        "cityColor": "E4C600",
-                                        "citySize": 14,
-                                        "aqiColor": "#E4C600",
-                                        "aqiSize": 14,
-                                        "weatherIconSize": 24,
-                                        "alertIconSize": 18,
-                                        "padding": "10px 10px 10px 10px",
-                                        "shadow": "1",
-                                        "language": "auto",
-                                        "borderRadius": 5,
-                                        "fixed": "false",
-                                        "vertical": "middle",
-                                        "horizontal": "left",
-                                        "key": "085791e805a24491b43b06cf58ab31e7"
-                                    }
-                                }
-                            </script>
-                            <script
-                                src="https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0"></script>
-                        </div> -->
-
-
-                        <!-- <li class="nav-item mr-3 mr-lg-0 d-none d-lg-block">
-                            <script>
-                                fetch('https://v1.hitokoto.cn/?c=b')
-                                    .then(response => response.json())
-                                    .then(data => {
-                                        const hitokoto = document.getElementById('hitokoto_text')
-                                        hitokoto.href = 'https://hitokoto.cn/?c=b uuid=' + data.uuid
-                                        hitokoto.innerText = data.hitokoto
-                                    })
-                                    .catch(console.error)
-                            </script>
-                            <div id="hitokoto"><a href="#" target="_blank" id="hitokoto_text">Mjj的导航。</a></div>
-                        </li> -->
-
-
-
                         <li class="nav-item d-md-none mobile-menu ml-3 ml-md-4">
                             <a href="javascript:" id="sidebar-switch" data-toggle="modal" data-target="#sidebar"><i
                                     class="iconfont icon-classification icon-2x"></i></a>
@@ -7249,21 +7181,5 @@ function switchNightMode(){
     }
 }
 </script>
-<!-- <script>
-
-var BootDate = new Date("2024/6/18 22:00:00");
-function ShowRunTime(id) {
-var NowDate = new Date();
-var RunDateM = parseInt(NowDate - BootDate);
-var RunDays = Math.floor(RunDateM/(24*3600*1000));
-var RunHours = Math.floor(RunDateM%(24*3600*1000)/(3600*1000));
-var RunMinutes = Math.floor(RunDateM%(24*3600*1000)%(3600*1000)/(60*1000));
-var RunSeconds = Math.round(RunDateM%(24*3600*1000)%(3600*1000)%(60*1000)/1000);
-var RunTime = RunDays + "天" + RunHours + "时" + RunMinutes + "分" + RunSeconds + "秒";
-document.getElementById(id).innerHTML = "Mjj：" + RunTime;
-}
-setInterval("ShowRunTime('RunTime')", 1000);
-
-</script> -->
 </body>
 </html>

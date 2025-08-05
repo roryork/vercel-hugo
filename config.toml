@@ -20,7 +20,7 @@ publishDir            = "docs"					# 站点静态文件保存目录
     logosPath     = "assets/images/logos"			# 网站每个导航地址logo存放地址
     defaultLogo   = "assets/images/logos/default.webp"		# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
     nightMode     = false					# 默认站点为深色(夜间)模式
-    yiyan         = true                         		# 默认启用一言服务
+    yiyan         = false                         		# 默认启用一言服务
 
 [params.seo]
     baiduhmid     = '252f9700e4c1ad32c2647eb839ef71e6'		# 百度统计 hm.src 的 ID
@@ -29,7 +29,7 @@ publishDir            = "docs"					# 站点静态文件保存目录
     tj51lack        = ''
 
 [params.qweather]
-    key = "085791e805a24491b43b06cf58ab31e7"
+    key = ""
 
 [params.images]
     favicon           = "assets/images/favicon2.png"           # 网站图标
