@@ -78,8 +78,51 @@
 - taxonomy: 常用工具
   icon: fas fa-laptop-code fa-lg
   list:
+    - term: 域名注册
+      links:
+        - title: NameSilo
+          logo: namesilo.ico
+          url: https://www.namesilo.com/
+          description: 域名注册商，提供域名注册、SSL证书等服务
+        - title: Namecheap
+          logo: namecheap.ico
+          url: https://www.namecheap.com/
+          description: 域名注册商，提供域名注册、SSL证书等服务
+        - title: GoDaddy
+          logo: godaddy.png
+          url: https://www.godaddy.com/
+          description: 全球最大的域名注册商之一，提供域名注册、主机等服务
+        - title: 阿里云域名
+          logo: 阿里云.ico
+          url: https://wanwang.aliyun.com/
+          description: 阿里云的域名注册服务
+        - title: 腾讯云域名
+          logo: 腾讯云.ico
+          url: https://cloud.tencent.com/product/domain
+          description: 腾讯云的域名注册服务
+        - title: PP.ua
+          logo: nic.png
+          url: https://nic.ua/
+          description: 免费二级域名，按年续期
+        - title: Eu.org
+          logo: euorg.ico
+          url: https://nic.eu.org/
+          description: 永久免费二级域名
+        - title: Nyc.mn
+          logo: nycmn.png
+          url: https://dot.nyc.mn/
+          description: 永久免费二级域名，仅限纽约家宽申请
+        - title: Nyc.mn
+          logo: uskg.jpg
+          url: https://domain.digitalplat.org/
+          description: 永久免费二级域名，半年续期
+
     - term: 网络工具
       links:
+        - title: iTdog
+          logo: itdog.ico
+          url: https://www.itdog.cn/http/
+          description: 站长工具聚合
         - title: Fast
           logo: fastcom.png
           url: https://fast.com/
@@ -108,8 +151,20 @@
           logo: bibigpt.ico
           url: https://ifconfig.co/
           description: 查询IP位置
+        - title: IP权重
+          logo: ip123.png
+          url: https://ip123.in/
+          description: 在线查询IP的权重，支持查询ipv6
+        - title: IP检测
+          logo: ipjiance.ico
+          url: https://ipjiance.com/
+          description: 检测IP质量，ip类型等信息
+        - title: 在线代理
+          logo: lumiproxy.ico
+          url: https://www.lumiproxy.com/zh-hans/online-proxy/proxysite/
+          description: 在线网络代理，免费代理
 
-    - term: 办公学习
+    - term: 办公必备
       links:
         - title: GitHub
           logo: github.ico
@@ -123,34 +178,34 @@
           logo: gitee.ico
           url: https://gitee.com/
           description: GitHub中国镜像站代理
-        - title: R2coding
-          logo: r2c.ico
-          url: https://r2coding.com/
-          description: 编程自学之路，是自学编程以来所用资源和分享内容的大聚合
-        - title: 语雀
-          logo: 语雀.ico
-          url: https://www.yuque.com/
-          description: 优雅高效的在线文档编辑与协同工具
+        - title: 编码转换
+          logo: bejson.ico
+          url: https://www.bejson.com/
+          description: JSON工具,格式互转
+        - title: UUID
+          logo: uuidgenerator.png
+          url: https://www.uuidgenerator.net/
+          description: UUID生产工具
         - title: 清华大学开源
           logo: 清华开源.ico
           url: https://mirror.tuna.tsinghua.edu.cn/
           description: 具有全球影响力的开源软件镜像站点
-        - title: 有道词典
-          logo: 有道词典.ico
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译
-        - title: 谷歌翻译
-          logo: 谷歌翻译.ico
-          url: https://translate.google.cn/
-          description: 谷歌翻译
+        - title: JSON工具
+          logo: 3dm.ico
+          url: http://www.jsons.cn/urlencode/
+          description: Json编解码工具
+        - title: Warp+
+          logo: warp.png
+          url: https://ip125.com/warp/
+          description: 获取Cloudflare的Warp+key
         - title: Paperpass
           logo: paperpass.ico
           url: https://www.paperpass.com/
           description: 论文查重，每天免费一篇
-        - title: CSDN
-          logo: csdn.ico
-          url: https://www.csdn.net/
-          description: 中国最大的专业技术社区，包含了众多IT领域的技术文章和技术问答
+        - title: 站长之家
+          logo: chinaz.ico
+          url: https://tool.chinaz.com/
+          description: 站长工具箱
         - title: 掘金
           logo: 掘金.ico
           url: https://juejin.cn/
@@ -159,10 +214,10 @@
           logo: v2ex.ico
           url: https://www.v2ex.com/
           description: 由设计师、程序员及有创意的人参与的社区
-        - title: Xmind
-          logo: xmind.ico
-          url: https://xmind.cn/
-          description: 方便思维导图的使用
+        - title: Web开发工具
+          logo: 语雀.jpg
+          url: http://web-tools.phalapi.net/
+          description: Web Tools开发者在线工具精品
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
