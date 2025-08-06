@@ -4,16 +4,16 @@
     <title>AiEDU | MJJ导航</title>
     <link>https://518855.xyz/</link>
     <description>Recent content on AiEDU | MJJ导航</description>
-    <generator>AiEDU -- MJJ</generator>
-    <language>zh-CN</language><atom:link href="https://518855.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 05 Nov 2019 19:41:12 -0500</lastBuildDate>
+    <atom:link href="https://518855.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about</title>
-      <link>https://985188.xyz/contacts/</link>
+      <link>https://518855.xyz/about/</link>
       <pubDate>Tue, 05 Nov 2019 19:41:12 -0500</pubDate>
-
-      <guid>https://985188.xyz/contacts/</guid>
+      <guid>https://518855.xyz/about/</guid>
       <description></description>
     </item>
-
   </channel>
 </rss>
