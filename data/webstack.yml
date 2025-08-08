@@ -219,39 +219,39 @@
           url: http://web-tools.phalapi.net/
           description: Web Tools开发者在线工具精品
 
-- taxonomy: 悠闲娱乐
+- taxonomy: 数据资源
   icon: fas fa-film fa-lg
   list:
-    - term: 影音视频
+    - term: 虚拟数据
       links:
-        - title: 哔哩哔哩
-          logo: 哔哩哔哩.ico
-          url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站
-        - title: 网易云音乐
-          logo: 网易云音乐.jpg
-          url: https://music.163.com/
-          description: 163 网易云音乐
-        - title: 免费音乐
-          logo: freemusic.ico
-          url: https://tool.liumingye.cn/music/#/
-          description: 免费听下载全网音乐
+        - title: 虚拟身份
+          logo: fakexy.png
+          url: https://www.fakexy.com/
+          description: 虚拟身份信息
+        - title: 虚拟身份
+          logo: fauxid.ico
+          url: https://fauxid.com/
+          description: 虚拟身份信息，可以按条件筛选
+        - title: 虚拟身份
+          logo: fakenameng.ico
+          url: https://www.fakenamegenerator.com/
+          description: 虚拟身份信息，可以按条件筛选
         - title: Emby
           logo: emby.ico
           url: https://emby.media/
           description: Emby自建视频媒体库，自行搜索公益服务器
-        - title: Netflix
-          logo: Netflix.ico
-          url: https://www.netflix.com/
-          description: 流媒体视频服务提供商，提供广泛的电影和电视节目的流媒体服务
-        - title: Disney+
-          logo: Disney+.ico
-          url: https://www.disneyplus.com/
-          description: 迪士尼、皮克斯、漫威、卢卡斯影业等品牌的电影、电视剧、纪录片、独家内容等
-        - title: YouTube
-          logo: youtube.ico
-          url: https://www.youtube.com/
-          description: 世界上最大的在线视频平台
+        - title: 虚拟身份
+          logo: fakeperson.ico
+          url: https://www.fakepersongenerator.com/
+          description: 虚拟身份信息，可以按条件筛选
+        - title: 佰腾网
+          logo: baiten.png
+          url: https://www.baiten.cn/
+          description: 查专利，查论文，查标准，查法规
+        - title: 随机用户名
+          logo: suijidaquan.ico
+          url: https://www.suijidaquan.com/username-generator
+          description: 生成安全的用户名
         - title: 电影天堂（DYTT8）
           logo: 电影天堂.ico
           url: https://www.dytt8.net/index.htm
