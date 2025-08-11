@@ -167,6 +167,10 @@
           logo: lumiproxy.ico
           url: https://www.lumiproxy.com/zh-hans/online-proxy/proxysite/
           description: 在线网络代理，免费代理
+        - title: 订阅转换
+          logo: mcwy.ico
+          url: https://sub.mcwy.cloud/
+          description: 订阅链接转换，支持多种格式转换
 
     - term: 办公必备
       links:
