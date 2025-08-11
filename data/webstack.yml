@@ -74,6 +74,10 @@
       logo: Lucky.png
       url: https://www.iloveimg.com/zh-cn
       description: 可批量编辑图片 的所有工具
+    - title: 免费拼图
+      logo: coffeeops.ico
+      url: https://img.ops-coffee.cn/photo/
+      description: 免费在线拼图工具，支持多种图片格式
 
 - taxonomy: 常用工具
   icon: fas fa-laptop-code fa-lg
