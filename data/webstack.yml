@@ -78,6 +78,10 @@
       logo: coffeeops.ico
       url: https://img.ops-coffee.cn/photo/
       description: 免费在线拼图工具，支持多种图片格式
+    - title: Mac软件
+      logo: xclient.ico
+      url: https://xclient.info/
+      description: 免费mac软件,破解软件
 
 - taxonomy: 常用工具
   icon: fas fa-laptop-code fa-lg
