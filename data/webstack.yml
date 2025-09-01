@@ -245,6 +245,61 @@
 - taxonomy: 数据资源
   icon: fas fa-film fa-lg
   list:
+    - term: 电子书资源
+      links:
+        - title: Z-Library
+          logo: zlib.png
+          url: https://z-library.sk/
+          description: 全球最大的免费电子书资源站
+        - title: 鸠摩搜书
+          logo: jiumodiary.png
+          url: https://www.jiumodiary.com/
+          description: 一个类似搜索引擎类的电子书搜索网站
+        - title: 古登堡书籍
+          logo: gutenberg.ico
+          url: https://www.gutenberg.org/
+          description: 一个国外的电子书书籍网站，专门提供免费的epub和Kindle电子书
+        - title: Libgen
+          logo: libgen.png
+          url: https://libgen.li/
+          description: 一个号称全世界最大的图书馆网站，涵盖了国内外大量免费书籍
+        - title: Manybooks
+          logo: manybooks.ico
+          url: https://manybooks.net/
+          description: 一个提供了上千万本国外的免费电子书网站，各种类型的书籍都能找到
+        - title: Free-Ebooks
+          logo: freeebooks.png
+          url: https://www.free-ebooks.net/
+          description: 一个电子书资源超丰富的网站，书籍的分类超级详细
+        - title: Sobooks
+          logo: sobooks.ico
+          url: https://sobooks.cc/
+          description: 一个分类超级详细的电子书资源网站，囊括了国内外的书籍资源，有广告
+        - title: 熊猫搜书
+          logo: xmsoushu.ico
+          url: https://xmsoushu.com/
+          description: 一个关于电子书的导航网站
+        - title: 安娜的档案
+          logo: annas.png
+          url: https://zh.annas-archive.li/
+          description: 人类历史上最大的完全开放的图书馆
+        - title: 24h搜书
+          logo: 24hbook.png
+          url: https://24hbook.store/
+          description: 人可按书名，出版社，作者搜索想看的电子书，支持azw3、mobi、epub、pdf等多种格式
+        - title: Thefuture
+          logo: thefuture.png
+          url: https://bks.thefuture.top/
+          description: 免费电子书搜索引擎
+        - title: 书格
+          logo: shuge.ico
+          url: https://www.shuge.org/
+          description: 书格是一个自由开放的数字图书馆
+        - title: Mox漫画
+          logo: kmoe.ico
+          url: https://mox.moe/
+          description: 下载漫画专用
+
     - term: 虚拟数据
       links:
         - title: 虚拟身份
