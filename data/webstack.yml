@@ -322,6 +322,14 @@
           logo: fakeperson.ico
           url: https://www.fakepersongenerator.com/
           description: 虚拟身份信息，可以按条件筛选
+        - title: 美国身份
+          logo: mylife.png
+          url: https://www.mylife.com/
+          description: 美国身份信息索引
+        - title: 美国身份查询
+          logo: truepeople.ico
+          url: https://www.truepeoplesearch.com/
+          description: 美国身份信息查询
         - title: 佰腾网
           logo: baiten.png
           url: https://www.baiten.cn/
