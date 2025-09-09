@@ -27,7 +27,7 @@ publishDir            = "docs"					# 站点静态文件保存目录
     # baiduSiteVer  = 'codeva-cCAOSG8MBO'				# 百度HTML标签验证(baidu-site-verification)
     # tj51laid        = ''                        		# 51.LA 网站统计
     # tj51lack        = ''
-    GoogleAdsClient = 'G-Z57E0L2R8Z'
+    GoogleAdsClient = 'G-TZZ8ZZD3FR'
 
 [params.qweather]
     key = ""
