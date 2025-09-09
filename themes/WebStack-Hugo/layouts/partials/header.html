@@ -30,15 +30,12 @@
     <script src="https://kit.fontawesome.com/8dbd36e300.js" crossorigin="anonymous"></script>
     <script type="text/javascript" src="{{ relURL "assets/js/jquery.min-3.2.1.js" }}" id="jquery-js"></script>
     <script type="text/javascript" src="{{ relURL "assets/js/content-search.js" }}"  id="content-search-js"></script>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z57E0L2R8Z"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-Z57E0L2R8Z');
-</script>
+    <!-- Google AdSense -->
+    {{ if .Site.Params.seo.GoogleAdsClient }}
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ $.Site.Params.seo.GoogleAdsClient }}" crossorigin="anonymous"></script>
+    {{ end }}
+    <!-- end Google AdSense -->
 
     <!-- 鼠标样式 -->
     <style>
