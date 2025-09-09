@@ -45,3 +45,7 @@ publishDir            = "docs"					# 站点静态文件保存目录
 
 [params.footer]
     copyright = '2025 - {year} By [AiEDU](https://github.com/88899) | [vercel-hugo](https://github.com/88899/vercel-hugo) <br/>'
+
+[services]
+[services.googleAnalytics]
+ID = "G-Z57E0L2R8Z"
