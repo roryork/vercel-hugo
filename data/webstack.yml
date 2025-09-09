@@ -61,23 +61,19 @@
     - title: Clochat
       logo: clochat.png
       url: https://clochat.com/
+      description: Mjj的论坛
+    - title: Mjjbox
+      logo: mjjbox.png
+      url: https://mjjbox.com/
       description: MJJ的论坛
+    - title: Mjjvm
+      logo: mjjbox.png
+      url: https://www.mjjvm.com/
+      description: MJJ的论坛的免费小鸡
     - title: Cloudflare
       logo: cloudflare.ico
       url: https://www.cloudflare.com/zh-cn/
       description: 大伙都知道的CF
-    - title: LOGO在线设计
-      logo: photoshop.png
-      url: https://www.uugai.com/
-      description: 免费的LOGO在线设计制作工具
-    - title: 修图全集
-      logo: Lucky.png
-      url: https://www.iloveimg.com/zh-cn
-      description: 可批量编辑图片 的所有工具
-    - title: 免费拼图
-      logo: coffeeops.ico
-      url: https://img.ops-coffee.cn/photo/
-      description: 免费在线拼图工具，支持多种图片格式
     - title: Mac软件
       logo: xclient.ico
       url: https://xclient.info/
@@ -241,6 +237,18 @@
           logo: diagrams.png
           url: https://app.diagrams.net/
           description: 在线绘图，无需登录即可绘制流程图、思维导图等
+        - title: LOGO在线设计
+          logo: photoshop.png
+          url: https://www.uugai.com/
+          description: 免费的LOGO在线设计制作工具
+        - title: 修图全集
+          logo: Lucky.png
+          url: https://www.iloveimg.com/zh-cn
+          description: 可批量编辑图片 的所有工具
+        - title: 免费拼图
+          logo: coffeeops.ico
+          url: https://img.ops-coffee.cn/photo/
+          description: 免费在线拼图工具，支持多种图片格式
 
 - taxonomy: 数据资源
   icon: fas fa-film fa-lg
