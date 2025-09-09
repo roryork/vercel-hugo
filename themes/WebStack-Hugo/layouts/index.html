@@ -13,7 +13,3 @@
 {{ partial "modal_search.html" . }}
 
 {{ partial "footer.html" . }}
-
-{{ if site.Config.Services.GoogleAnalytics.ID }}
-    {{ template "_internal/google_analytics.html" . }}
-{{ end }}
