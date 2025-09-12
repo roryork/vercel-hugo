@@ -1,16 +1,16 @@
 baseURL               = "https://518855.xyz/"
 languageCode          = "zh-CN"
 title                 = "AiEDU | MJJ导航"
+description           = "免费服务器 免费资源 Mjj的导航站 必备工具 导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
 hasCJKLanguage        = true
 publishDir            = "docs"					# 站点静态文件保存目录
 
-
 [params]
     author        = "AiEDU"
-    description   = "NAV | STATIC MJJ BY AiEDU"
+    description   = "免费服务器 免费资源 Mjj的导航站 必备工具 导航"
     upload        = "https://518855.xyz/"  # 左侧导航栏的"网站提交"
     about         = "https://985188.xyz/contacts/"	# 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/88899"
