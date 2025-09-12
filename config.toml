@@ -1,6 +1,6 @@
 baseURL               = "https://518855.xyz/"
 languageCode          = "zh-CN"
-title                 = "AiEDU | MJJ导航"
+title                 = "Mjj的导航站 | 免费服务器| 免费资源 | 必备工具 | 导航"
 description           = "免费服务器 免费资源 Mjj的导航站 必备工具 导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
