@@ -42,7 +42,7 @@ html {
 
 .big-header-banner:not(.header-bg) .page-header .navbar-nav>li>a:hover,
 .big-header-banner:not(.header-bg) .navbar-menu a:not(.dropdown-item):hover {
-    color: #dc3545;
+    color: #00a96e;
 }
 
 .big-header-banner:not(.header-bg) .header-mini-btn path {
@@ -168,7 +168,7 @@ footer.main-footer .footer-text a {
 }
 
 footer.main-footer .footer-text a:hover {
-    color: red;
+    color: #20c997;
 }
 
 /*About页面*/
