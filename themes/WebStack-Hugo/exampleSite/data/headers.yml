@@ -3,7 +3,7 @@
   link: "./"
 
 - item: 文档
-  icon: fa fa-dochub
+  icon: fa fa-file
   link: https://www.aiedu.pp.ua
 
 - item: 配置
