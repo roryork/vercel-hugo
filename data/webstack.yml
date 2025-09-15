@@ -249,6 +249,10 @@
           logo: coffeeops.ico
           url: https://img.ops-coffee.cn/photo/
           description: 免费在线拼图工具，支持多种图片格式
+        - title: 颜色转换
+          logo: oklch.png
+          url: https://oklch.com/
+          description: 设计师必备免费在线颜色转换工具
 
 - taxonomy: 数据资源
   icon: fas fa-film fa-lg
