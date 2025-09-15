@@ -4,7 +4,7 @@
 
 - item: 文档
   # icon: fa fa-user-secret
-  icon: fa-file-alt
+  icon: fa-dochub
   link: https://www.aiedu.pp.ua
 
 - item: 博客
