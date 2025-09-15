@@ -12,7 +12,7 @@ publishDir            = "docs"					# 站点静态文件保存目录
     author        = "AiEDU"
     description   = "免费服务器 免费资源 Mjj的导航站 必备工具 导航"
     upload        = "https://518855.xyz/"  # 左侧导航栏的"网站提交"
-    about         = "https://985188.xyz/contacts/"	# 左侧导航栏的"关于导航"页面(./about)
+    about         = "https://www.aiedu.pp.ua"	# 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/88899"
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "AiEDU"				# 预加载的动画文字, 只有当enablePreLoad=true时生效

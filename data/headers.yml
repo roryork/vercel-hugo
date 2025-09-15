@@ -2,9 +2,10 @@
   icon: fa fa-home
   link: "./"
 
-- item: 作者
-  icon: fa fa-user-secret
-  link: https://985188.xyz/contacts/
+- item: 文档
+  # icon: fa fa-user-secret
+  icon: fa-file-alt
+  link: https://www.aiedu.pp.ua
 
 - item: 博客
   icon: fa fa-blog
