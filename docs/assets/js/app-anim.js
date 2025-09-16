@@ -203,7 +203,7 @@
         event.preventDefault();
         $.ajax({
             url: theme.ajaxurl,
-            type: 'POST',
+            type: 'GET',
             dataType: 'html',
             data: {
                 mode_toggle: $('body').hasClass('io-black-mode') === true ? 1 : 0,
