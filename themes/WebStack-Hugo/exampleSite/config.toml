@@ -34,11 +34,11 @@ publishDir            = "docs"					# 站点静态文件保存目录
 [params.images]
     favicon           = "assets/images/favicon.png"
     searchImageL      = "assets/images/bg-dna.jpg"		# 搜索部分浅色背景图
-    searchImageD      = "assets/images/bg-dna.jpg"		# 搜索部分深色背景图
-    logoExpandLight   = "assets/images/bt8-expand-light.png"
-    logoExpandDark    = "assets/images/bt8-expand-dark.png"
-    logoCollapseLight = "assets/images/bt.png"
-    logoCollapseDark  = "assets/images/bt.png"
+    searchImageD      = "assets/images/bg-dna-d.jpg"		# 搜索部分深色背景图
+    logoExpandLight   = "assets/images/wuzi.png"
+    logoExpandDark    = "assets/images/wuzi-b.png"
+    logoCollapseLight = "assets/images/favicon.png"
+    logoCollapseDark  = "assets/images/favicon.png"
 
 [markup.goldmark.renderer]
     unsafe = true
