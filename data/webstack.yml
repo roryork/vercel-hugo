@@ -2,6 +2,14 @@
 - taxonomy: MJJ的推荐
   icon: far fa-star
   links:
+    - title: 博客
+      logo: aiedu.png
+      url: https://googhub.nyc.mn/
+      description: 最新最全的解决方案集，我的博客站
+    - title: 文档
+      logo: coding.png
+      url: https://www.aiedu.pp.ua/
+      description: 基于mintlify的文档库，API库
     - title: YXVM
       logo: yxvm.ico
       url: https://yxvm.com/aff.php?aff=660
@@ -74,10 +82,6 @@
       logo: cloudflare.ico
       url: https://www.cloudflare.com/zh-cn/
       description: 大伙都知道的CF
-    - title: Mac软件
-      logo: xclient.ico
-      url: https://xclient.info/
-      description: 免费mac软件,破解软件
 
 - taxonomy: 常用工具
   icon: fas fa-laptop-code fa-lg
@@ -253,6 +257,10 @@
           logo: oklch.png
           url: https://oklch.com/
           description: 设计师必备免费在线颜色转换工具
+        - title: Mac软件
+          logo: xclient.ico
+          url: https://xclient.info/
+          description: 免费mac软件,破解软件
 
 - taxonomy: 数据资源
   icon: fas fa-film fa-lg
