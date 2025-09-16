@@ -493,6 +493,10 @@
 
     - term: 平面素材
       links:
+        - title: Pexels
+          logo: pexels.ico
+          url: https://www.pexels.com/
+          description: 才华横溢的摄影作者在这里免费分享素材图片和视频
         - title: Wallpaper Abyss
           logo: wa.ico
           url: https://wall.alphacoders.com/
