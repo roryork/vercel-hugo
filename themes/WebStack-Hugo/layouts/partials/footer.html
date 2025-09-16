@@ -113,6 +113,7 @@ function switchNightMode(){
         $(".mode-ico").addClass("icon-light");
     }else{
 	$("#search-bg").css("background-image", "url({{ $.Site.Params.images.searchImageD }})")
+        $("#search-bg").css("background-image", "url({{ $.Site.Params.images.searchImageD }})");   //默认浅色背景
         document.body.classList.remove('io-black-mode');
         document.body.classList.add('io-grey-mode');
         document.cookie = "night=0;path=/"
