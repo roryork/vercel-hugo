@@ -37,7 +37,7 @@ publishDir            = "docs"					# 站点静态文件保存目录
     searchImageL      = "assets/images/bg-dna.jpg"             # 搜索部分浅色背景图
     searchImageD      = "assets/images/bg-dna.jpg"             # 搜索部分深色背景图
     logoExpandLight   = "assets/images/wuzi.png"               # 扩展状态下的浅色 logo
-    logoExpandDark    = "assets/images/wuzi.png"               # 扩展状态下的深色 logo
+    logoExpandDark    = "assets/images/wuzi-b.png"               # 扩展状态下的深色 logo
     logoCollapseLight = "assets/images/favicon.png"           # 收起状态下的浅色 logo
     logoCollapseDark  = "assets/images/favicon.png"           # 收起状态下的深色 logo
 
