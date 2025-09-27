@@ -82,16 +82,17 @@
       logo: mjjbox.png
       url: https://www.mjjvm.com/
       description: MJJ的论坛的免费小鸡
-    - title: Cloudflare
-      logo: cloudflare.ico
-      url: https://www.cloudflare.com/zh-cn/
-      description: 大伙都知道的CF
+
 
 - taxonomy: 常用工具
   icon: fas fa-laptop-code fa-lg
   list:
     - term: 网络工具
       links:
+        - title: Cloudflare
+          logo: cloudflare.ico
+          url: https://www.cloudflare.com/zh-cn/
+          description: 大伙都知道的CF
         - title: iTdog
           logo: itdog.ico
           url: https://www.itdog.cn/http/
