@@ -58,6 +58,10 @@
       logo: nodeseek.png
       url: https://www.nodeseek.com/
       description: MJJ的论坛，俗称ns
+    - title: DeepFlood
+      logo: deepflood.png
+      url: https://www.deepflood.com/
+      description: MJJ的论坛，NS的分站
     - title: Nodeloc
       logo: nodeloc.jpeg
       url: https://nodeloc.cc/
