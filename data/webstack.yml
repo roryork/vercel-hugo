@@ -262,173 +262,14 @@
           logo: oklch.png
           url: https://oklch.com/
           description: 设计师必备免费在线颜色转换工具
+        - title: SVG在线编辑
+          logo: svgonline.ico
+          url: https://www.jyshare.com/more/svgeditor/
+          description: 免费的好用的在线SVG编辑器
         - title: Mac软件
           logo: xclient.ico
           url: https://xclient.info/
           description: 免费mac软件,破解软件
-
-- taxonomy: 数据资源
-  icon: fas fa-film fa-lg
-  list:
-    - term: 电子书资源
-      links:
-        - title: Z-Library
-          logo: zlib.png
-          url: https://z-library.sk/
-          description: 全球最大的免费电子书资源站
-        - title: 鸠摩搜书
-          logo: jiumodiary.png
-          url: https://www.jiumodiary.com/
-          description: 一个类似搜索引擎类的电子书搜索网站
-        - title: 古登堡书籍
-          logo: gutenberg.ico
-          url: https://www.gutenberg.org/
-          description: 一个国外的电子书书籍网站，专门提供免费的epub和Kindle电子书
-        - title: Libgen
-          logo: libgen.png
-          url: https://libgen.li/
-          description: 一个号称全世界最大的图书馆网站，涵盖了国内外大量免费书籍
-        - title: Manybooks
-          logo: manybooks.ico
-          url: https://manybooks.net/
-          description: 一个提供了上千万本国外的免费电子书网站，各种类型的书籍都能找到
-        - title: Free-Ebooks
-          logo: freeebooks.png
-          url: https://www.free-ebooks.net/
-          description: 一个电子书资源超丰富的网站，书籍的分类超级详细
-        - title: Sobooks
-          logo: sobooks.ico
-          url: https://sobooks.cc/
-          description: 一个分类超级详细的电子书资源网站，囊括了国内外的书籍资源，有广告
-        - title: 熊猫搜书
-          logo: xmsoushu.ico
-          url: https://xmsoushu.com/
-          description: 一个关于电子书的导航网站
-        - title: 安娜的档案
-          logo: annas.png
-          url: https://zh.annas-archive.li/
-          description: 人类历史上最大的完全开放的图书馆
-        - title: 24h搜书
-          logo: 24hbook.png
-          url: https://24hbook.store/
-          description: 人可按书名，出版社，作者搜索想看的电子书，支持azw3、mobi、epub、pdf等多种格式
-        - title: Thefuture
-          logo: thefuture.png
-          url: https://bks.thefuture.top/
-          description: 免费电子书搜索引擎
-        - title: 书格
-          logo: shuge.ico
-          url: https://www.shuge.org/
-          description: 书格是一个自由开放的数字图书馆
-        - title: Mox漫画
-          logo: kmoe.ico
-          url: https://mox.moe/
-          description: 下载漫画专用
-
-    - term: 虚拟数据
-      links:
-        - title: 虚拟身份
-          logo: fakexy.png
-          url: https://www.fakexy.com/
-          description: 虚拟身份信息
-        - title: 虚拟身份
-          logo: fauxid.ico
-          url: https://fauxid.com/
-          description: 虚拟身份信息，可以按条件筛选
-        - title: 虚拟身份
-          logo: fakenameng.ico
-          url: https://www.fakenamegenerator.com/
-          description: 虚拟身份信息，可以按条件筛选
-        - title: Emby
-          logo: emby.ico
-          url: https://emby.media/
-          description: Emby自建视频媒体库，自行搜索公益服务器
-        - title: 虚拟身份
-          logo: fakeperson.ico
-          url: https://www.fakepersongenerator.com/
-          description: 虚拟身份信息，可以按条件筛选
-        - title: 美国身份
-          logo: mylife.png
-          url: https://www.mylife.com/
-          description: 美国身份信息索引
-        - title: 美国身份查询
-          logo: truepeople.ico
-          url: https://www.truepeoplesearch.com/
-          description: 美国身份信息查询
-        - title: 佰腾网
-          logo: baiten.png
-          url: https://www.baiten.cn/
-          description: 查专利，查论文，查标准，查法规
-        - title: 随机用户名
-          logo: suijidaquan.ico
-          url: https://www.suijidaquan.com/username-generator
-          description: 生成安全的用户名
-        - title: 电影天堂（DYTT8）
-          logo: 电影天堂.ico
-          url: https://www.dytt8.net/index.htm
-          description: 电影天堂（DYTT8），高清电影下载
-        - title: 电影天堂（DYGOD）
-          logo: 电影天堂.ico
-          url: https://www.dygod.net/
-          description: 电影天堂（DYGOD），高清电影下载
-        - title: 免费视频
-          logo: nivod.ico
-          url: https://www.nivod4.tv/
-          description: 快速更新免费电视电影
-        - title: 動畫線上看
-          logo: 动漫.webp
-          url: https://anime1.me/
-          description: 上百部動畫在綫免費看~
-        - title: H动漫
-          logo: H动漫.jpg
-          url: https://hanime1.me/
-          description: 偷偷看 别被家长发现了
-        - title: 禁漫天堂
-          logo: jinman.ico
-          url: https://18comic.vip/
-          description: 日韩漫本子聚集地
-        - title: 巴卡漫画
-          logo: baka.png
-          url: https://bakamh.com/
-          description: bakamh巴卡漫画 韩漫
-    - term: 网盘资源
-      links:
-        - title: 百度网盘
-          logo: 百度网盘.ico
-          url: http://pan.baidu.com/
-          description: 百度云盘，最慢的盘
-        - title: 阿里云盘
-          logo: 阿里云盘.ico
-          url: https://www.aliyundrive.com/
-          description: 阿里云盘，你的数字世界
-        - title: 谷歌云盘
-          logo: 谷歌云盘.ico
-          usrl: https://www.google.com/intl/zh-CN_ALL/drive/
-          description: 随时随地存取，它还提供了共享和协作功能
-        - title: OneDrive
-          logo: OneDrive.ico
-          usrl: https://onedrive.live.com/
-          description: 微软云盘，支持备份Windows
-        - title: Nextcloud
-          logo: nextcloud.webp
-          usrl: https://nextcloud.com/
-          description: 自托管的云存储，开源云盘
-        - title: Alist
-          logo: alist.svg
-          usrl: https://alist.nn.ci/
-          description: 一个支持多种存储的文件列表程序，软路由搭载
-        - title: 可道云
-          logo: 可道云.ico
-          usrl: https://kodcloud.com/
-          description: 云端存储&协同办公新体验
-        - title: 蓝奏云
-          logo: 蓝奏云.ico
-          url: https://www.lanzoui.com/
-          description: 天下武功，唯快不破
-        - title: 坚果云
-          logo: 坚果云.ico
-          usrl: https://www.jianguoyun.com/
-          description: 任何设备，随时随地实现文件共享
 
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
@@ -644,6 +485,169 @@
           url: https://design.meitu.com/
           logo: meitudata.svg
           description: 告诉ai标题生成大纲PPT
+- taxonomy: 数据资源
+  icon: fas fa-film fa-lg
+  list:
+    - term: 电子书资源
+      links:
+        - title: Z-Library
+          logo: zlib.png
+          url: https://z-library.sk/
+          description: 全球最大的免费电子书资源站
+        - title: 鸠摩搜书
+          logo: jiumodiary.png
+          url: https://www.jiumodiary.com/
+          description: 一个类似搜索引擎类的电子书搜索网站
+        - title: 古登堡书籍
+          logo: gutenberg.ico
+          url: https://www.gutenberg.org/
+          description: 一个国外的电子书书籍网站，专门提供免费的epub和Kindle电子书
+        - title: Libgen
+          logo: libgen.png
+          url: https://libgen.li/
+          description: 一个号称全世界最大的图书馆网站，涵盖了国内外大量免费书籍
+        - title: Manybooks
+          logo: manybooks.ico
+          url: https://manybooks.net/
+          description: 一个提供了上千万本国外的免费电子书网站，各种类型的书籍都能找到
+        - title: Free-Ebooks
+          logo: freeebooks.png
+          url: https://www.free-ebooks.net/
+          description: 一个电子书资源超丰富的网站，书籍的分类超级详细
+        - title: Sobooks
+          logo: sobooks.ico
+          url: https://sobooks.cc/
+          description: 一个分类超级详细的电子书资源网站，囊括了国内外的书籍资源，有广告
+        - title: 熊猫搜书
+          logo: xmsoushu.ico
+          url: https://xmsoushu.com/
+          description: 一个关于电子书的导航网站
+        - title: 安娜的档案
+          logo: annas.png
+          url: https://zh.annas-archive.li/
+          description: 人类历史上最大的完全开放的图书馆
+        - title: 24h搜书
+          logo: 24hbook.png
+          url: https://24hbook.store/
+          description: 人可按书名，出版社，作者搜索想看的电子书，支持azw3、mobi、epub、pdf等多种格式
+        - title: Thefuture
+          logo: thefuture.png
+          url: https://bks.thefuture.top/
+          description: 免费电子书搜索引擎
+        - title: 书格
+          logo: shuge.ico
+          url: https://www.shuge.org/
+          description: 书格是一个自由开放的数字图书馆
+        - title: Mox漫画
+          logo: kmoe.ico
+          url: https://mox.moe/
+          description: 下载漫画专用
+
+    - term: 虚拟数据
+      links:
+        - title: 虚拟身份
+          logo: fakexy.png
+          url: https://www.fakexy.com/
+          description: 虚拟身份信息
+        - title: 虚拟身份
+          logo: fauxid.ico
+          url: https://fauxid.com/
+          description: 虚拟身份信息，可以按条件筛选
+        - title: 虚拟身份
+          logo: fakenameng.ico
+          url: https://www.fakenamegenerator.com/
+          description: 虚拟身份信息，可以按条件筛选
+        - title: Emby
+          logo: emby.ico
+          url: https://emby.media/
+          description: Emby自建视频媒体库，自行搜索公益服务器
+        - title: 虚拟身份
+          logo: fakeperson.ico
+          url: https://www.fakepersongenerator.com/
+          description: 虚拟身份信息，可以按条件筛选
+        - title: 美国身份
+          logo: mylife.png
+          url: https://www.mylife.com/
+          description: 美国身份信息索引
+        - title: 美国身份查询
+          logo: truepeople.ico
+          url: https://www.truepeoplesearch.com/
+          description: 美国身份信息查询
+        - title: 佰腾网
+          logo: baiten.png
+          url: https://www.baiten.cn/
+          description: 查专利，查论文，查标准，查法规
+        - title: 随机用户名
+          logo: suijidaquan.ico
+          url: https://www.suijidaquan.com/username-generator
+          description: 生成安全的用户名
+        - title: 电影天堂（DYTT8）
+          logo: 电影天堂.ico
+          url: https://www.dytt8.net/index.htm
+          description: 电影天堂（DYTT8），高清电影下载
+        - title: 电影天堂（DYGOD）
+          logo: 电影天堂.ico
+          url: https://www.dygod.net/
+          description: 电影天堂（DYGOD），高清电影下载
+        - title: 免费视频
+          logo: nivod.ico
+          url: https://www.nivod4.tv/
+          description: 快速更新免费电视电影
+        - title: 動畫線上看
+          logo: 动漫.webp
+          url: https://anime1.me/
+          description: 上百部動畫在綫免費看~
+        - title: H动漫
+          logo: H动漫.jpg
+          url: https://hanime1.me/
+          description: 偷偷看 别被家长发现了
+        - title: 禁漫天堂
+          logo: jinman.ico
+          url: https://18comic.vip/
+          description: 日韩漫本子聚集地
+        - title: 巴卡漫画
+          logo: baka.png
+          url: https://bakamh.com/
+          description: bakamh巴卡漫画 韩漫
+    - term: 网盘资源
+      links:
+        - title: 百度网盘
+          logo: 百度网盘.ico
+          url: http://pan.baidu.com/
+          description: 百度云盘，最慢的盘
+        - title: 阿里云盘
+          logo: 阿里云盘.ico
+          url: https://www.aliyundrive.com/
+          description: 阿里云盘，你的数字世界
+        - title: 谷歌云盘
+          logo: 谷歌云盘.ico
+          usrl: https://www.google.com/intl/zh-CN_ALL/drive/
+          description: 随时随地存取，它还提供了共享和协作功能
+        - title: OneDrive
+          logo: OneDrive.ico
+          usrl: https://onedrive.live.com/
+          description: 微软云盘，支持备份Windows
+        - title: Nextcloud
+          logo: nextcloud.webp
+          usrl: https://nextcloud.com/
+          description: 自托管的云存储，开源云盘
+        - title: Alist
+          logo: alist.svg
+          usrl: https://alist.nn.ci/
+          description: 一个支持多种存储的文件列表程序，软路由搭载
+        - title: 可道云
+          logo: 可道云.ico
+          usrl: https://kodcloud.com/
+          description: 云端存储&协同办公新体验
+        - title: 蓝奏云
+          logo: 蓝奏云.ico
+          url: https://www.lanzoui.com/
+          description: 天下武功，唯快不破
+        - title: 坚果云
+          logo: 坚果云.ico
+          usrl: https://www.jianguoyun.com/
+          description: 任何设备，随时随地实现文件共享
+
 - taxonomy: 人工智能
   icon: fas fa-robot fa-lg
   list:
