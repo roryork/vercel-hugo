@@ -6,10 +6,6 @@
       logo: aiedu.png
       url: https://googhub.nyc.mn/
       description: 最新最全的解决方案集，我的博客站
-    - title: 文档
-      logo: coding.png
-      url: https://www.aiedu.pp.ua/
-      description: 基于mintlify的文档库，API库
     - title: YXVM
       logo: yxvm.ico
       url: https://yxvm.com/aff.php?aff=660
@@ -82,7 +78,10 @@
       logo: mjjbox.png
       url: https://www.mjjvm.com/
       description: MJJ的论坛的免费小鸡
-
+    - title: Vmrack
+      logo: vmrack.svg
+      url: https://www.vmrack.net?ref_code=5bJbwRLt4by
+      description: 不定期抽永久鸡，极具性价比
 
 - taxonomy: 常用工具
   icon: fas fa-laptop-code fa-lg
