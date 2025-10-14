@@ -150,6 +150,10 @@
           description: UUID生产工具
     - term: 域名注册
       links:
+        - title: Spaceship
+          logo: spaceship.png
+          url: https://www.spaceship.com/
+          description: 最便宜的xyz域名注册商
         - title: NameSilo
           logo: namesilo.ico
           url: https://www.namesilo.com/
@@ -186,6 +190,7 @@
           logo: uskg.jpg
           url: https://domain.digitalplat.org/
           description: 永久免费二级域名，半年续期
+
 
     - term: 办公必备
       links:
