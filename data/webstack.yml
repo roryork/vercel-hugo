@@ -82,6 +82,29 @@
 - taxonomy: 常用工具
   icon: fas fa-laptop-code fa-lg
   list:
+    - term: 脚本大全
+      links:
+        - title: 老王一键
+          logo: laowang.jpg
+          url: https://github.com/eooce/ssh_tool
+          description: 节点搭建一条龙，小白玩鸡必备
+        - title: Kejilion
+          logo: kejilion.jpeg
+          url: https://github.com/kejilion/sh
+          description: vps评测，系统维护必备
+        - title: 勇哥工具箱
+          logo: ygkkk.jpeg
+          url: https://github.com/yonggekkk
+          description: 鸡界大神，各种玩机脚本
+        - title: 融合怪
+          logo: runheguai.jpeg
+          url: https://github.com/spiritLHLS
+          description: 大名顶顶的融合怪，玩机必备
+        - title: F佬
+          logo: flao.png
+          url: https://github.com/fscarmen
+          description: 鸡界大神，他的warp举世无双，玩机必备
+
     - term: 网络工具
       links:
         - title: Cloudflare
