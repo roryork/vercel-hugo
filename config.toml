@@ -8,6 +8,7 @@ disablePathToLower    = true
 hasCJKLanguage        = true
 publishDir            = "docs"					# 站点静态文件保存目录
 
+
 # Robots.txt
 enableRobotsTXT = true
 
