@@ -38,8 +38,8 @@ enableRobotsTXT = true
 
 [params.images]
     favicon           = "assets/images/favicon.png"           # 网站图标
-    searchImageL      = "https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/bg-dna.jpg"             # 搜索部分浅色背景图
-    searchImageD      = "https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/bg-dna-d.jpg"             # 搜索部分深色背景图
+    searchImageL      = "assets/images/bg-dna.jpg"             # 搜索部分浅色背景图
+    searchImageD      = "assets/images/bg-dna-d.jpg"             # 搜索部分深色背景图
     logoExpandLight   = "assets/images/wuzi.png"               # 扩展状态下的浅色 logo
     logoExpandDark    = "assets/images/wuzi-b.png"               # 扩展状态下的深色 logo
     logoCollapseLight = "assets/images/favicon.png"           # 收起状态下的浅色 logo
