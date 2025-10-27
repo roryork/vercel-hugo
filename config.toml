@@ -8,6 +8,9 @@ disablePathToLower    = true
 hasCJKLanguage        = true
 publishDir            = "docs"					# 站点静态文件保存目录
 
+# Robots.txt
+enableRobotsTXT = true
+
 [params]
     author        = "AiEDU"
     description   = "免费服务器 免费资源 Mjj的导航站 必备工具 导航"
