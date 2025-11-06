@@ -289,6 +289,10 @@
           logo: xclient.ico
           url: https://xclient.info/
           description: 免费mac软件,破解软件
+        - title: 迅捷在线压缩
+          logo: xunjie.ico
+          url: https://yasuo.xunjiepdf.com/
+          description: 免费的在线压缩工具，支持图片、PDF、视频等多种格式
 
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
