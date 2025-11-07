@@ -163,6 +163,11 @@
           logo: uuidgenerator.png
           url: https://www.uuidgenerator.net/
           description: UUID生产工具
+        - title: UUID
+          logo: 1024tools.ico
+          url: https://1024tools.com/
+          description: 著名的在线工具箱，包含UUID生成等多种工具
+
     - term: 域名注册
       links:
         - title: Spaceship
