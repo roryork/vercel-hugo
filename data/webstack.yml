@@ -70,10 +70,10 @@
       logo: mjjbox.png
       url: https://mjjbox.com/
       description: MJJ的论坛
-    - title: Vmrack
-      logo: vmrack.svg
-      url: https://www.vmrack.net?ref_code=5bJbwRLt4by
-      description: 不定期抽永久免费鸡
+    - title: 万能下载
+      logo: snapany.ico
+      url: https://snapany.com/zh
+      description: 万能的免费的视频图片下载工具
 
 - taxonomy: 常用工具
   icon: fas fa-laptop-code fa-lg
