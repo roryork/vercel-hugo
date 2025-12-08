@@ -9,7 +9,7 @@
 
 - item: 博客
   icon: fa fa-blog
-  link: https://googhub.nyc.mn/
+  link: https://554575.nyc.mn/
 
 - item: 关于
   icon: fa fa-cog
@@ -17,7 +17,7 @@
   list:
     - name: 源码
       icon: fab fa-github-alt
-      link: "https://github.com/88899/vercel-hugo"
+      link: "https://github.com/roryork/vercel-hugo"
     - name: 图标
       icon: fab fa-font-awesome
       link: "https://fontawesome.com/"
