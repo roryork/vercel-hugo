@@ -6,6 +6,6 @@ description: "Mjj的导航站"
 
 欢迎来到Mjj的技术文档。
 
-👉 [访问外部知识库](https://googhub.nyc.mn/categories/)
+👉 [访问外部知识库](https://554575.nyc.mn/categories/)
 
-或者点击这里查看 [GitHub 项目](https://github.com/88899/hugo-blog)。
+或者点击这里查看 [GitHub 项目](https://github.com/roryork/hugo-blog)。
