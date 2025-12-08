@@ -167,7 +167,48 @@
           logo: mcwy.ico
           url: https://sub.mcwy.cloud/
           description: 订阅链接转换，支持多种格式转换
-
+    - term: 飞机精选
+      links:
+        - title: 影视搜索
+          logo: moviesousuo.jpg
+          url: https://t.me/VodStore
+          description: TG群组，免费看电影，搜电影
+        - title: 一起搜电影
+          logo: yiqisoumovie.jpg
+          url: https://t.me/sotv
+          description: TG机器人，免费看电影，搜电影
+        - title: 搜音乐
+          logo: soumusic.jpg
+          url: https://t.me/VmoMusicSearch
+          description: TG群组，免费听音乐，搜音乐
+        - title: 无损音乐下载
+          logo: wusunmusic.jpg
+          url: https://t.me/SQMP3
+          description: TG群组，免费听音乐，下载无损音乐
+        - title: 音乐点播
+          logo: vodmusic.jpg
+          url: https://t.me/mp3_cn
+          description: TG群组，免费听音乐
+        - title: 精选音乐
+          logo: jingxuanmusic.jpg
+          url: https://t.me/qing_03
+          description: TG频道，精选音乐免费听
+        - title: 国家地理
+          logo: guojiadili.jpg
+          url: https://t.me/national_geograph1c
+          description: 国家地理频道，高清美图
+        - title: 竹新社
+          logo: zhuxinshe.jpg
+          url: https://t.me/tnews365
+          description: 新闻频道，国内外最新报道
+        - title: 纽约时报
+          logo: newyorknews.jpg
+          url: https://t.me/niuyueshibao_rss
+          description: 纽约时报中文版
+        - title: 纽约时报
+          logo: newyroktimes.jpg
+          url: https://t.me/nyt_bilingual
+          description: 纽约时报双语版
     - term: 域名注册
       links:
         - title: Spaceship
