@@ -8,3 +8,4 @@
   Build output directory：docs（先保持 Hugo 默认值）；
 * 删除左小角广告
   github搜索文件"sidebar.html"，里面有个iframe,删掉即可
+  删除从 <li> 到 </li> 的整个部分，包括其中的iframe。
