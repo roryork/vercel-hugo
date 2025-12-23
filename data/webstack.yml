@@ -34,10 +34,6 @@
       logo: cloudcat.ico
       url: https://www.cloudcat.one/
       description: 猫云,抽奖积分兑换法国小鸡
-    - title: NatFreecloud
-      logo: natfreecloud.ico
-      url: https://nat.freecloud.ltd/
-      description: 难民云，帕斯云的亲子云, 免费Nat小鸡积分续期
     - title: Hax
       logo: hax.png
       url: https://hax.co.id/
@@ -74,7 +70,11 @@
       logo: snapany.ico
       url: https://snapany.com/zh
       description: 万能的免费的视频图片下载工具
-
+    - title: 视频下载器
+      logo: youtubedownload.ico
+      url: https://vd6s.com/zh-cn3/
+      description: 油管，instagram免费的视频图片下载工具
+      
 - taxonomy: 常用工具
   icon: fas fa-laptop-code fa-lg
   list:
