@@ -12,6 +12,9 @@ publishDir            = "dist"					# 站点静态文件保存目录
 # Robots.txt
 enableRobotsTXT = true
 
+[images]
+disableLazyLoading = false
+
 [params]
     author        = "AiEDU"
     description   = "免费服务器 免费资源 Mjj的导航站 必备工具 导航"
@@ -47,9 +50,6 @@ enableRobotsTXT = true
 
 [markup.goldmark.renderer]
     unsafe = true
-
-[images]
-  disableLazyLoading = false # 明确启用懒加载（默认即为false，可省略）
 
 [markup.imageRender]
 loading = "lazy"
