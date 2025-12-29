@@ -48,5 +48,11 @@ enableRobotsTXT = true
 [markup.goldmark.renderer]
     unsafe = true
 
+[images]
+  disableLazyLoading = false # 明确启用懒加载（默认即为false，可省略）
+
+[markup.imageRender]
+loading = "lazy"
+
 [params.footer]
     copyright = '2025 - {year} By [AiEDU](https://github.com/roryork) | [vercel-hugo](https://github.com/roryork/vercel-hugo) <br/>'
