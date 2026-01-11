@@ -6,6 +6,8 @@
 * 全局站点配置：修改根目录下的config.toml文件
 * 图片（logo等)：替换/docs/assets/images下的同名文件
 * 站点内容修改：修改/data/目录下的yml文件
+
+Cloudflare部署导航网站
 * 进入 Cloudflare Pages 目标项目 → 左侧「设置」→「构建与部署」；
 * 点击「编辑构建命令和输出目录」；
 * 强制配置：
