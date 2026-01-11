@@ -1,3 +1,6 @@
+项目介绍
+基于Hugo框架搭建
+基于Webstack风格的导航网站
 * 全局站点配置：修改根目录下的config.toml文件
 * 图片（logo等)：替换/docs/assets/images下的同名文件
 * 站点内容修改：修改/data/目录下的yml文件
