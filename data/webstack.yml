@@ -66,6 +66,10 @@
       logo: youtubedownload.ico
       url: https://vd6s.com/zh-cn3/
       description: 油管，instagram免费的视频图片下载工具
+          - title: 效率坊
+      logo: yxiaolvfang.ico
+      url: https://www.xiaolvfang.com/
+      description: 支持1000+网站免费的视频图片下载工具
       
 - taxonomy: 常用工具
   icon: fas fa-laptop-code fa-lg
@@ -134,6 +138,14 @@
           logo: newyroktimes.jpg
           url: https://t.me/nyt_bilingual
           description: 纽约时报双语版
+        - title: 彩票
+          logo: 500w.jpg
+          url: https://t.me/renren500w
+          description: 推送大数据预测双色球、超级大乐透、七星彩、七乐彩
+        - title: 电视盒子直播源
+          logo: dayuzhibo.jpg
+          url: https://t.me/Dayuptv
+          description: 适用于苹果Aptv的直播源
     - term: 测速必备
       links:
         - title: Warp+
