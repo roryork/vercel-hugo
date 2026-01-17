@@ -142,11 +142,15 @@
           logo: 500w.jpg
           url: https://t.me/renren500w
           description: 推送大数据预测双色球、超级大乐透、七星彩、七乐彩
-        - title: 电视盒子直播源
+        - title: Aptv苹果专用
+          logo: aptv.png
+          url: https://t.me/AptvPlayer
+          description: 苹果设备专用，aptv直播源
+        - title: Tvbox直播源
           logo: dayuzhibo.jpg
           url: https://t.me/Dayuptv
           description: 大宇tvbox直播源
-        - title: 肥羊直播源
+        - title: 肥羊数码
           logo: feiyang.jpg
           url: https://t.me/feiyangdigital
           description: 肥羊直播源码
