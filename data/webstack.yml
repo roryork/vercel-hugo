@@ -145,7 +145,15 @@
         - title: 电视盒子直播源
           logo: dayuzhibo.jpg
           url: https://t.me/Dayuptv
-          description: 适用于苹果Aptv的直播源
+          description: 大宇tvbox直播源
+        - title: 肥羊直播源
+          logo: feiyang.jpg
+          url: https://t.me/feiyangdigital
+          description: 肥羊直播源码
+        - title: 饭太硬
+          logo: fantaiyin.jpg
+          url: https://www.xn--sss604efuw.com/
+          description: 饭太硬看电视导航站
     - term: 测速必备
       links:
         - title: Warp+
