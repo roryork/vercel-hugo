@@ -1,4 +1,4 @@
-baseURL               = "https://www.518855.xyz/"
+baseURL               = "https://www.554575.xyz/"
 languageCode          = "zh-CN"
 title                 = "AiEDU | MJJ导航"
 theme                 = "WebStack-Hugo"
@@ -12,8 +12,8 @@ publishDir            = "docs"					# 站点静态文件保存目录
     author        = "AiEDU"
     description   = "AiEDU | MJJ导航"
     upload        = "#"  # 左侧导航栏的"网站提交"
-    about         = "https://github.com/88899"	# 左侧导航栏的"关于导航"页面(./about)
-    repository    = "https://github.com/88899/vercel-hugo"
+    about         = "https://github.com/roryork"	# 左侧导航栏的"关于导航"页面(./about)
+    repository    = "https://github.com/roryork/vercel-hugo"
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "AiEDU"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false					# 默认展开左侧边导航栏
@@ -44,4 +44,4 @@ publishDir            = "docs"					# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = '2025 - {year} By [AiEDU](https://github.com/88899) | [vercel-hugo](https://github.com/88899/vercel-hugo) <br/>'
+    copyright = '2025 - {year} By [AiEDU](https://github.com/roryork) | [vercel-hugo](https://github.com/roryork/vercel-hugo) <br/>'
